@@ -1,0 +1,58 @@
+#mainContainer {
+margin:0 auto;
+width:980px;
+background-color: #d6dde0;
+}
+
+#myBox {
+	padding: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.textHello {
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+#myImage{
+	padding: 20px 47px;
+}
+
+.myImage{
+	float:left;
+	width:290px;
+	margin-right: 8px;
+}
+
+.myImageLast{
+	float:right;
+	width:290px;
+}
+
+#myDiscription {
+	overflow: hidden;
+	padding-left: 47px;
+	padding-right: 47px;
+	margin-bottom: 10px;
+}
+
+.myDiscription {
+	float:left;
+	width: 270px;
+	margin-right: 8px;
+	text-align: center;
+	padding: 10px;
+}
+
+.myDiscriptionLast {
+	float: right;
+	width: 270px;
+	text-align: center;
+	padding: 10px;
+}
+
+.text_myDiscription{
+	font:13pt;
+	font-weight: bold;
+}
